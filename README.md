@@ -47,28 +47,28 @@ What things you need to install the software and how to install them:
 ## Setup
 
 1. **Relays**:
--Relay 5 ->port 11 Arduino
--Relay 4 ->port 10 Arduino
--Relay 3 ->port 9 Arduino
--Relay 2 ->port 8 Arduino
--Relay 1 ->port 7 Arduino
--Relay DC- -> Breadboard -
--Relay DC+ -> Breadboard +
+   - Relay 5 ->port 11 Arduino
+   - Relay 4 ->port 10 Arduino
+   - Relay 3 ->port 9 Arduino
+   - Relay 2 ->port 8 Arduino
+   - Relay 1 ->port 7 Arduino
+   - Relay DC- -> Breadboard -
+   - Relay DC+ -> Breadboard +
 
 2. **Sensors**:
--PIR sensor5 ->port 6 Arduino
--PIR sensor4 ->port 5 Arduino
--PIR sensor3 ->port 4 Arduino
--PIR sensor2 ->port 3 Arduino
--PIR sensor1 ->port 2 Arduino
--PIR sensor VCC -> 5V Arduino
--PIR sensor GND -> GND Arduino
+   - PIR sensor5 ->port 6 Arduino
+   - PIR sensor4 ->port 5 Arduino
+   - PIR sensor3 ->port 4 Arduino
+   - PIR sensor2 ->port 3 Arduino
+   - PIR sensor1 ->port 2 Arduino
+   - PIR sensor VCC -> 5V Arduino
+   - PIR sensor GND -> GND Arduino
 
 3. **NodeMCu**:
--NodeMCu RX  ->port 1 Arduino
--NodeMCu TX  ->port 0 Arduino
--NodeMCu GND ->GND Arduino
--NodeMCu 3V3 ->Rst Arduino
+   - NodeMCu RX  ->port 1 Arduino
+   - NodeMCu TX  ->port 0 Arduino
+   - NodeMCu GND ->GND Arduino
+   - NodeMCu 3V3 ->Rst Arduino
 
 ## Usage
 
