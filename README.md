@@ -88,9 +88,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Mislav Penić - [mislav.penic@tvz.hr](mailto:mislav.penic@tvz.hr)
-Krunoslav Matić - [krunoslav.matic@tvz.hr](mailto:krunoslav.matic@tvz.hr)
-Marino Kuljanac - [marino.kuljanac@tvz.hr](mailto:marino.kuljanac@tvz.hr)
+   - Mislav Penić - [mislav.penic@tvz.hr](mailto:mislav.penic@tvz.hr)
+   - Krunoslav Matić - [krunoslav.matic@tvz.hr](mailto:krunoslav.matic@tvz.hr)
+   - Marino Kuljanac - [marino.kuljanac@tvz.hr](mailto:marino.kuljanac@tvz.hr)
 
 Project Link: [https://github.com/mPenic/illuminiq](https://github.com/mPenic/illuminiq)
 
